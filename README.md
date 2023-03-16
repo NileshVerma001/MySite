@@ -11,7 +11,7 @@ You can view my portfolio website [here](https://nileshverma001.github.io/MySite
 If you'd like to clone this repository and run the website locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/nileshverma001/MySite.git`
-2. Navigate to the project directory: `cd your-repo`
+2. Navigate to the project directory: `cd MySite`
 3. Open `index.html` in your browser
 
 ## Features
